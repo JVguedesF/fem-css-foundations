@@ -1,0 +1,40 @@
+.
+├── estrutura.txt
+├── fonts
+│   ├── Inter_18pt-BoldItalic.ttf
+│   ├── Inter_18pt-Bold.ttf
+│   ├── Inter_18pt-Regular.ttf
+│   ├── Inter_24pt-BoldItalic.ttf
+│   ├── Inter_24pt-Bold.ttf
+│   ├── Inter_24pt-Regular.ttf
+│   ├── Inter_28pt-BoldItalic.ttf
+│   ├── Inter_28pt-Bold.ttf
+│   └── Inter_28pt-Regular.ttf
+├── icons
+│   ├── arrow-right.svg
+│   ├── close-menu.svg
+│   ├── menu.svg
+│   └── shopping-cart.svg
+├── index.html
+├── readme-images
+│   ├── clone.png
+│   ├── color-highlight.png
+│   ├── create-fork.png
+│   ├── dank-mono.png
+│   ├── extensions.png
+│   ├── figma.png
+│   ├── fira-code.png
+│   ├── fork.png
+│   ├── live-server.png
+│   ├── prettier.png
+│   ├── terminal.png
+│   ├── theme.png
+│   └── view-fork.png
+├── README.md
+├── speakers.html
+└── styles
+    ├── base.css
+    ├── index.css
+    └── speakers.css
+
+4 directories, 33 files
